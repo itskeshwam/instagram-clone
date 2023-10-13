@@ -1,4 +1,4 @@
-# Instagram Clone README
+# Instagram Clone 
 
 This is a simplified Instagram clone web application created using HTML and CSS. It replicates key features and the design of Instagram's web version.
 
